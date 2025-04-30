@@ -1,0 +1,24 @@
+# Titanic Survival Prediction Web App
+
+This project uses machine learning to predict survival on the Titanic based on a given set of features.
+
+## Tech Stack
+
+- **Streamlit**: Framework untuk web app
+- **Scikit-learn**: Library untuk machine learning
+- **Pandas**: Data manipulation
+- **Joblib**: Untuk menyimpan model
+
+## Requirements
+
+- Python 3.9
+- Streamlit
+- Pandas
+- Scikit-learn
+- Joblib
+
+## Cara Menjalankan
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/USERNAME/titanic-predictor-app.git
